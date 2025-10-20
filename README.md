@@ -1,2 +1,2 @@
-# hosptical
+# healthcare 
 website
